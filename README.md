@@ -1,13 +1,15 @@
 # Simple Databases for Pythonic Astronomers
 
-Very simple sqlalchemy / sqlite tutorial, made at Astro Hack Week 2016.
+[![Find out more about AstroHackWeek](https://img.shields.io/badge/Made%20at-%23AstroHackWeek-8063d5.svg?style=flat)](http://astrohackweek.org)
+
+Very simple `SQLAlchemy` / `SQLite` tutorial, made at Astro Hack Week 2016.
 
 ## Contents
 
-- Pre-Tutorial: Overview of SQLAlchemy
-- Tutorial 1: Basics
-- Tutorial 2: Interacting with Databases in Sessions
-- Tutorial 3: Estimating Simple Means
+- **[Pre-Tutorial: Overview of SQLAlchemy](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/00.Overview.ipynb)**
+- **[Tutorial 1: Basics](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/01.Basics.ipynb)**
+- **[Tutorial 2: Interacting with Databases in Sessions](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/02.Sessions.ipynb)**
+- **[Tutorial 3: Estimating Simple Means](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/03.SimpleMean.ipynb)**
 
 ## People
 
