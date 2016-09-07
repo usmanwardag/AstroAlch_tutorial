@@ -10,7 +10,8 @@ Very simple `SQLAlchemy` / `SQLite` tutorial, made at Astro Hack Week 2016.
 - **[Tutorial 1: Basics](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/01.Basics.ipynb)**
 - **[Tutorial 2: Interacting with Databases in Sessions](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/02.Sessions.ipynb)**
 - **[Tutorial 3: Estimating Simple Means](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/03.SimpleMean.ipynb)**
-
+  - [Extension 3a: Extreme Averaging](https://github.com/usmanwardag/AstroAlch_tutorial/blob/master/Notebooks/03a.ExtremeAveraging.ipynb)
+  
 ## People
 
 * Usman Khan (NUST)
